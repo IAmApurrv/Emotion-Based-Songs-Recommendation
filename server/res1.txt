@@ -1,0 +1,28 @@
+[
+  {
+    "dominant_emotion": "fear",
+    "emotion": {
+      "angry": 45.89664887149917,
+      "disgust": 1.014823990359455e-6,
+      "fear": 49.59167833229045,
+      "happy": 0.0034815512265903474,
+      "neutral": 0.06282372217759158,
+      "sad": 4.444565781303141,
+      "surprise": 0.0008065255367118108
+    },
+    "face_confidence": 0.97,
+    "region": {
+      "h": 57,
+      "left_eye": null,
+      "right_eye": null,
+      "w": 57,
+      "x": 235,
+      "y": 123
+    }
+  }
+]
+
+
+
+# pip install tensorflow==2.13.0
+# pip install tensorflow==2.11
